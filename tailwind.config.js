@@ -15,6 +15,9 @@ export default {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
                 poppins : ['Poppins', 'sans-serif'],
             },
+           backgroundImage: {
+            'footer-bg-image' : "url('/public/assets/images/footer-bg1.png')"
+           }
         },
     },
 
